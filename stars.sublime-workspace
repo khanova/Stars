@@ -1,0 +1,987 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"dat",
+				"dateTimeChanged"
+			],
+			[
+				"asse",
+				"assertTrue"
+			],
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"in_",
+				"in_pole"
+			],
+			[
+				"get",
+				"get_angles"
+			],
+			[
+				"no",
+				"north"
+			],
+			[
+				"ga",
+				"get_angle"
+			],
+			[
+				"rot",
+				"rotate"
+			],
+			[
+				"ro",
+				"rotate"
+			],
+			[
+				"top",
+				"get_top_proection"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"ma",
+				"max_value"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"min",
+				"minimum_date"
+			],
+			[
+				"date",
+				"date_and_time"
+			],
+			[
+				"coo",
+				"coordinates"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"ol",
+				"old_theta"
+			],
+			[
+				"old",
+				"old_phi"
+			],
+			[
+				"x",
+				"xangle"
+			],
+			[
+				"My",
+				"MyValidator"
+			],
+			[
+				"Da",
+				"setDateTime"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"di",
+				"dist"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"st",
+				"star"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"an",
+				"angle"
+			],
+			[
+				"wi",
+				"with_len"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"Ima",
+				"ImageDraw"
+			],
+			[
+				"add",
+				"add_argument"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"s",
+				"sky"
+			],
+			[
+				"set",
+				"setText"
+			],
+			[
+				"pa",
+				"par_size"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pri",
+				"primes"
+			],
+			[
+				"MA",
+				"MAXC"
+			],
+			[
+				"MAX",
+				"MAXC"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"begi",
+				"begin"
+			],
+			[
+				"sta",
+				"stars"
+			],
+			[
+				"co",
+				"constellation"
+			],
+			[
+				"ini",
+				"init_global_vars"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"pos",
+				"positions"
+			],
+			[
+				"po",
+				"positions"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"dra",
+				"drawPoint"
+			],
+			[
+				"e",
+				"effect"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"p",
+				"property"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"dr",
+				"drawStar"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"sp",
+				"spherical_to_decart"
+			],
+			[
+				"get_ne",
+				"get_new_vector_len"
+			],
+			[
+				"Po",
+				"Point"
+			],
+			[
+				"Sta",
+				"StarrySky"
+			],
+			[
+				"sr",
+				"stars"
+			],
+			[
+				"ls",
+				"less_or_equal"
+			],
+			[
+				"ra",
+				"raise"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"del",
+				"delta\tPyQt Functions"
+			],
+			[
+				"he",
+				"height\tPyQt Functions"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "1) шифровальшик (текст, параметры) -> шифрует\n2) взломщик (текст) -> варианты\n3) анализатор (тексты)\n",
+			"settings":
+			{
+				"buffer_size": 101,
+				"line_ending": "Unix",
+				"name": "1) шифровальшик (текст, параметры) -> шифрует"
+			}
+		},
+		{
+			"file": "screenshot.py",
+			"settings":
+			{
+				"buffer_size": 2992,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "paint.py",
+			"settings":
+			{
+				"buffer_size": 8882,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1665,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "parse.py",
+			"settings":
+			{
+				"buffer_size": 2897,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Python 3",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Python 3",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Python 3",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Python 3",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Python 3",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "pep8",
+		"selected_items":
+		[
+			[
+				"pep8",
+				"AutoPEP8: Format Code"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":q",
+				"File: Copy Path Quoted"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"Running python3 -u /home/khanova/Documents/stars/read_data.py",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/khanova/Documents/stars"
+	],
+	"file_history":
+	[
+		"/home/khanova/.cache/.fr-orsAYm/50108.txt",
+		"/home/khanova/Documents/stars/tests.py",
+		"/home/khanova/Documents/stars/README.md",
+		"/home/khanova/Documents/stars/paint.py",
+		"/home/khanova/Documents/stars/screenshot.py",
+		"/home/khanova/Documents/stars/stars.py",
+		"/home/khanova/Documents/stars/parse.py",
+		"/home/khanova/Documents/stars/main.py",
+		"/home/khanova/Documents/stars/test.png",
+		"/home/khanova/Documents/stars/txt/vul.txt",
+		"/home/khanova/Documents/stars/stars.pyc",
+		"/home/khanova/Documents/stars/stars.sublime-project",
+		"/home/khanova/Documents/stars/stars.sublime-workspace",
+		"/home/khanova/Documents/stars/x.py",
+		"/home/khanova/Documents/stars/parse.pyc",
+		"/home/khanova/Documents/stars/global_vars.py",
+		"/home/khanova/Documents/stars/geometry.pyc",
+		"/home/khanova/Documents/stars/geometry.py",
+		"/home/khanova/Documents/stars/.coverage",
+		"/home/khanova/Documents/gen/gen/learn.py",
+		"/home/khanova/Documents/gen/gen/gen.py",
+		"/home/khanova/Documents/gen/gen/README.md",
+		"/home/khanova/Documents/gen/gen/main.py",
+		"/home/khanova/Documents/stars/txt/vir.txt",
+		"/home/khanova/Downloads/phys.tex",
+		"/home/khanova/Downloads/000106.cpp",
+		"/home/khanova/Downloads/000099.cpp",
+		"/home/khanova/Downloads/Telegram Desktop/tower_defence/tower_defence/README.txt",
+		"/home/khanova/Documents/stars/txt/and.txt",
+		"/home/khanova/Downloads/stars/and.htm",
+		"/home/khanova/Downloads/stars/dbf/data1.txt",
+		"/home/khanova/Desktop/output.txt",
+		"/home/khanova/Desktop/input.txt",
+		"/home/khanova/Desktop/A.cpp",
+		"/home/khanova/Desktop/B.cpp",
+		"/home/khanova/Documents/stars/output.txt",
+		"/home/khanova/Desktop/hello.cpp",
+		"/home/khanova/Documents/stars/tst.py",
+		"/home/khanova/Documents/stars/tmp",
+		"/home/khanova/Documents/stars/txt/ori.txt",
+		"/home/khanova/Documents/stars/star.py",
+		"/home/khanova/Documents/stars/txt/tau.txt",
+		"/home/khanova/Downloads/stars/uma.htm",
+		"/home/khanova/Documents/stars/txt/ant.txt",
+		"/home/khanova/Documents/stars/txt/aql.txt",
+		"/home/khanova/Documents/stars/txt/aqr.txt",
+		"/home/khanova/Documents/stars/txt/ari.txt",
+		"/home/khanova/Documents/stars/txt/aur.txt",
+		"/home/khanova/Documents/stars/txt/boo.txt",
+		"/home/khanova/Documents/stars/txt/cam.txt",
+		"/home/khanova/Documents/stars/txt/cap.txt",
+		"/home/khanova/Documents/stars/txt/cas.txt",
+		"/home/khanova/Documents/stars/txt/cep.txt",
+		"/home/khanova/Documents/stars/txt/cet.txt",
+		"/home/khanova/Documents/stars/txt/cma.txt",
+		"/home/khanova/Documents/stars/txt/cmi.txt",
+		"/home/khanova/Documents/stars/txt/cnc.txt",
+		"/home/khanova/Documents/stars/txt/com.txt",
+		"/home/khanova/Documents/stars/txt/crb.txt",
+		"/home/khanova/Documents/stars/txt/crt.txt",
+		"/home/khanova/Documents/stars/txt/crv.txt",
+		"/home/khanova/Documents/stars/txt/cvn.txt",
+		"/home/khanova/Documents/stars/txt/cyg.txt",
+		"/home/khanova/Documents/stars/txt/del.txt",
+		"/home/khanova/Documents/stars/txt/dra.txt",
+		"/home/khanova/Documents/stars/txt/equ.txt",
+		"/home/khanova/Documents/stars/txt/eri.txt",
+		"/home/khanova/Documents/stars/txt/for.txt",
+		"/home/khanova/Documents/stars/txt/gem.txt",
+		"/home/khanova/Documents/stars/txt/her.txt",
+		"/home/khanova/Documents/stars/txt/hya.txt",
+		"/home/khanova/Documents/stars/txt/lac.txt",
+		"/home/khanova/Documents/stars/txt/leo.txt",
+		"/home/khanova/Documents/stars/txt/lep.txt",
+		"/home/khanova/Documents/stars/txt/lib.txt",
+		"/home/khanova/Documents/stars/txt/lmi.txt",
+		"/home/khanova/Documents/stars/txt/lyn.txt",
+		"/home/khanova/Documents/stars/txt/lyr.txt",
+		"/home/khanova/Documents/stars/txt/mon.txt",
+		"/home/khanova/Documents/stars/txt/oph.txt",
+		"/home/khanova/Documents/stars/txt/peg.txt",
+		"/home/khanova/Documents/stars/txt/per.txt",
+		"/home/khanova/Documents/stars/txt/psa.txt",
+		"/home/khanova/Documents/stars/txt/psc.txt",
+		"/home/khanova/Documents/stars/txt/pup.txt",
+		"/home/khanova/Documents/stars/txt/pyx.txt",
+		"/home/khanova/Documents/stars/txt/scl.txt",
+		"/home/khanova/Documents/stars/txt/sco.txt",
+		"/home/khanova/Documents/stars/txt/sct.txt",
+		"/home/khanova/Documents/stars/txt/se1.txt",
+		"/home/khanova/Documents/stars/txt/ser.txt",
+		"/home/khanova/Documents/stars/txt/sex.txt",
+		"/home/khanova/Documents/stars/txt/sge.txt",
+		"/home/khanova/Documents/stars/txt/sgr.txt",
+		"/home/khanova/Documents/stars/txt/tri.txt",
+		"/home/khanova/Documents/stars/txt/uma.txt",
+		"/home/khanova/Documents/stars/txt/umi.txt",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/polygon_html_parsers.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/colors.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/config.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/exceptions.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/actions/import_package.py",
+		"/home/khanova/Documents/stars/tetris.py",
+		"/home/khanova/Documents/stars/uma.txt",
+		"/home/khanova/Documents/stars/and.txt",
+		"/home/khanova/Downloads/materials/draw1.py",
+		"/home/khanova/Downloads/materials/live/live_gif.py",
+		"/home/khanova/Documents/polygon-cli/run.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/polygon_cli.py",
+		"/home/khanova/Documents/stars/read_data.py",
+		"/home/khanova/Desktop/test.py",
+		"/home/khanova/Documents/to_backup/sudo apt-get update;sudo apt-get dist-upgrade; sud.sh",
+		"/home/khanova/Desktop/hello.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/__init__.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/actions/update.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/problem.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/polygon_file.py",
+		"/home/khanova/Documents/polygon-cli/polygon_cli/global_vars.py",
+		"/home/khanova/Documents/polygon-cli/setup.py",
+		"/home/khanova/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"to_angle",
+			"chan",
+			"cham",
+			"prin",
+			"doubl",
+			"to_angl",
+			"colors",
+			"greek",
+			"GREEK",
+			"greek",
+			"north",
+			"print",
+			"nort",
+			", QTimeZone.utc()",
+			"prin",
+			"phi",
+			"datetime",
+			"angl",
+			"wigth",
+			"secund",
+			"second",
+			"phi",
+			"theta",
+			"rad",
+			"prin",
+			"theta",
+			"coord",
+			"initDatetime",
+			"cb",
+			"edi",
+			"QtCore.",
+			"text",
+			"star",
+			"cache",
+			"Point",
+			")),\n",
+			"Point(0, 0, 1)),",
+			"Point(0, 0, 1)",
+			")),\n",
+			"Point(0, 0, 1)),",
+			"Point(0, 0, 1)",
+			"draw_stars",
+			"self.r",
+			"labels",
+			"self.sky.",
+			"QColor",
+			"qp",
+			"create_from_QPoint",
+			"QP",
+			"qp",
+			"width",
+			"sky",
+			"Point",
+			"\n",
+			"10",
+			"Example",
+			"ex",
+			"Example",
+			"radio",
+			"0",
+			"gone",
+			"appear",
+			"anim_appear",
+			"Text",
+			"text",
+			"Text",
+			"text",
+			".anim",
+			"anim",
+			"Anim",
+			"anim",
+			"resize",
+			"doAnim",
+			"Example",
+			"const",
+			"int",
+			"in",
+			"answer",
+			"x",
+			"direction",
+			"Ze",
+			"226",
+			"0",
+			"+",
+			"-",
+			"self.repaint()",
+			"GardientBrushFactory",
+			"Gardient",
+			"Catalog:",
+			"pos",
+			"# self.repaint()",
+			"self.repaint()",
+			"QPen",
+			"QMainWindow",
+			"QApplication",
+			"QWidget",
+			"size",
+			"Point",
+			"QRect",
+			"MyBrush",
+			"let",
+			"star.let",
+			"drawLet",
+			"qp",
+			"<i>",
+			"gardi",
+			" u'",
+			"u'",
+			"u",
+			"Star",
+			"colors",
+			"bold",
+			"vertical",
+			":vertical",
+			"scro",
+			"lay",
+			"frame",
+			"self.",
+			"QGridLayout",
+			"self.",
+			"self",
+			"QHBoxLayout",
+			"255",
+			"QLabel",
+			"19",
+			"Lable",
+			"Label",
+			"Lable"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1) шифровальшик (текст, параметры) -> шифрует",
+							"default_dir": "/home/khanova/Documents/stars",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "screenshot.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2992,
+								2992
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "paint.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1128,
+								1128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1330,
+								1330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "parse.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2897,
+								2897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1107.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 176.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "stars.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 140.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

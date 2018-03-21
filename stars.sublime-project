@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "build_systems":
+    [
+        {
+            "name": "Python 3",
+            "shell_cmd": "gnome-terminal -e 'bash -c \"python3 $file_name; echo; echo;echo Press ENTER to continue...; read line; exit;\"'"
+
+        }
+    ]
+}
